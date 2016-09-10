@@ -1,0 +1,165 @@
+body {
+	font-family:"Monserrat";
+	font-weight: 700´;
+}
+
+.titulo {
+	font-size: 30px;
+	color:#3D2A61;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.menu {
+	padding:10px;
+	margin: 10px;
+	text-align: center;
+}
+
+nav a {
+	text-decoration: none;
+	margin-right: 70px;
+	color: black;
+}
+
+.imagen {
+	background-image: url(../img/dance_1.jpg);
+	height: 500px;
+}
+
+h1 {
+	color:white;
+	font-size: 50px;
+	margin-top: 30px;
+}
+
+.tema {
+	color:white;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.click {
+	width: 100px;
+	color: white;
+	padding: 10px;
+	background-color: #2A0F54;
+	text-align: center
+}
+
+.texto {
+	background-image: url(../img/textura_2.jpg);
+	height: 340px;	
+	text-align: center;
+	font-size: 23px;
+	padding: 40px 350px;
+}
+
+.dibujo {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin-top:-70px;
+}
+
+.oferta {
+	width: 270px;
+	height: 30px;
+	background-color: #1E154E;
+	border-radius: 5%;
+	padding: 15px;
+	color: white;
+	font-size: 17px;
+	margin-left: 200px;
+}
+
+.fotos {
+	width: 100%;
+	border:3px solid #3F0D9E;
+}
+
+.profes {
+	height: 300px;
+}
+
+.enlace {
+	width: 480px;
+	height: 20px;
+	color: white;
+	font-size: 20px;
+	background-color: #2A0F54;
+	text-align: center;
+	margin-left:290px;
+	padding: 30px;
+	background-size: 200px;
+	margin-top:-80px;
+}
+
+.frase {
+	background-image: url(../img/textura_2.jpg);
+	height: 300px;
+}
+
+.mensaje {		
+	font-size: 40px;
+	text-align: center;
+	margin-top:100px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.ubicacion {
+	background-color:#1E154E;
+	height: 450px;
+}
+
+.escrito {
+	color: white;
+	padding:90px;
+	font-style:30px;
+}
+
+.visita {
+	margin-left: 100px;
+}
+
+h2 {
+	font-size: 25px;
+	color: white;
+	margin-left: 100px;
+}
+
+.direccion {
+	font-size: 15px;
+	color: white;
+	margin-left: 100px;
+}
+
+iframe {
+	width: 500px;
+	height: 300px;
+	padding: 80px;
+}
+
+form {
+	width: 400px;
+	margin: auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 30px;
+}
+
+h3 {
+	color:#261C45;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+input, textarea {
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+
+
