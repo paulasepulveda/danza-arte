@@ -162,4 +162,18 @@ input, textarea {
 	padding: 7px;
 }
 
+.zapatillas {
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain;
+}
 
+.final {
+	background-color:#1E154E;
+	height: 50px;
+	padding-left: 30px;
+	padding-top: 40px;
+	color:white;
+	font-size: 20px;
+}
